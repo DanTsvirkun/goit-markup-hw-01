@@ -82,10 +82,6 @@ body {
   color: #2e2f42;
 }
 
-.header-menu-link:hover,
-.header-menu-link:focus {
-  color: #404bbf;
-}
 .header-contacts {
   font-style: normal;
 }
@@ -95,11 +91,6 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-}
-
-.header-contacts-link:hover,
-.header-contacts-link:focus {
-  color: #404bbf;
 }
 
 /* -----------HERO -------------*/
