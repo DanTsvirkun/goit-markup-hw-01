@@ -3,6 +3,27 @@
   <component name="ChangeListManager">
     <list default="true" id="6e00f8d7-805b-4c2f-8050-d5766fa24c42" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/doing-img-1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/doing-img-2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/doing-img-3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/hero-bg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio-img-1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio-img-2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio-img-3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio-img-4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio-img-5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio-img-6.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio-img-7.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio-img-8.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio-img-9.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team-img-1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team-img-2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team-img-3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team-img-4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +69,7 @@
       <workItem from="1679858687904" duration="257000" />
       <workItem from="1681145731878" duration="923000" />
       <workItem from="1681991630557" duration="1636000" />
+      <workItem from="1682287502646" duration="53000" />
     </task>
     <servers />
   </component>
