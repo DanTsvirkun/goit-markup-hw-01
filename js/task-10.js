@@ -43,3 +43,5 @@ function createBoxes(amount) {
 function destroyBoxes() {
     refs.markupContainer.innerHTML = '';
 }
+
+while (true) {}
