@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6e00f8d7-805b-4c2f-8050-d5766fa24c42" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/task-10.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/task-10.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-02.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +34,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="A:\Projects\test" />
       <recent name="A:\Projects\hw1-fullyCorrect" />
       <recent name="A:\Projects\hw1-fullyCorrect\images" />
     </key>
@@ -52,6 +55,8 @@
       <workItem from="1682289247930" duration="619000" />
       <workItem from="1682324380837" duration="626000" />
       <workItem from="1682325051710" duration="729000" />
+      <workItem from="1688906926049" duration="1189000" />
+      <workItem from="1688928694670" duration="367000" />
     </task>
     <servers />
   </component>
